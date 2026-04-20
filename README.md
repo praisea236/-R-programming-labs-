@@ -2,39 +2,8 @@ R Programming Practice Labs
 A portfolio of hands-on R programming labs covering data analysis, visualization, and
 interactive dashboard development — applied across real-world scenarios in education,
 retail, and public health.
- Repository Structure
-r-programming-labs/
-│
-├── lab1_student_performance.R       # Student grade analysis
-├── lab2_retail_sales.R              # Retail store sales tracking
-├── lab3_cholera_outbreak.R          # Public health case monitoring
-├── dataset1_iris_analysis.R         # Iris dataset exploration
-├── dataset2_airpassengers.R         # AirPassengers time series analysis
-│
-├── lab1_barplot.png
-├── images/                          # Screenshots of outputs and plots
-│   
-│   
-│   
-│   
-│   
-│   
-│   
-│   
-│   
-│   
-├── lab1_histogram.png
-├── lab2_lineplot.png
-├── lab2_piechart.png
-├── lab3_linegraph.png
-├── lab3_barchart.png
-├── iris_scatterplot.png
-├── iris_boxplot.png
-├── airpassengers_trend.png
-└── airpassengers_histogram.png
-│
-└── README.md
- Labs Overview
+ 
+Labs Overview
 Lab 1 — Student Performance Analysis
 Scenario: A school teacher wants to analyze examination scores and classify student
 grades.
